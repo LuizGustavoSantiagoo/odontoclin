@@ -7,8 +7,8 @@ export default function Home() {
 
 export function Hero() {
     return (
-        <section className="bg-white">
-            <div className="container mx-auto px-4 pt-20 sm:px-6 lg:px-8">
+    <section className="bg-white my-6">
+            <div className="container mx-auto px-4 pt-20 pb-4 sm:pb-0 sm:px-6 lg:px-8">
 
                 <main className="flex items-center justify-center">
                     <article className="flex-[2] max-w-2xl space-y-8 flex flex-col justify-center ">
